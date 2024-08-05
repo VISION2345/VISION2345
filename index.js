@@ -33,5 +33,5 @@ selfMute: false, // إلغاء كتم الصوت
     }, 1000)
 }); 
 
-client.login(proccess.env.token);
+client.login(process.env.token);
 //هتروح على السيكريت و تكتب token و تححط توكن حسابك و تسوي كمان واحد بس ذي المره اسمه channel و تحط ايدي الروم الصوتي اللي تبي يتثبت فيها حسابك
